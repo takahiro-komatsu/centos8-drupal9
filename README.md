@@ -1,7 +1,7 @@
 このページは  
 
 「Drupal 9 Web 開発ことはじめ / Drupal Meetup 豊田支部(インプレスR&D)」  
-第4章 CentOS Stream 8を使ったDrupal 9サイト環境構築」  
+第4章 CentOS Stream 8を使ったDrupal 9サイト環境構築  
 
 「Drupal 9 Web 開発をはじめるための薄い本 / Drupal Meetup 豊田支部」  
 第3章 CentOS 8を使ったDrupal 9サイト環境構築  
