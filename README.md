@@ -25,8 +25,8 @@ $ sudo chown root:root /etc/nginx/conf.d/umapon.jp.conf
 $ sudo restorecon -R /etc/nginx/conf.d
 
 # (正誤表)  
-Drupal 9 Web 開発ことはじめ / Drupal Meetup 豊田支部 著  
-「第4章 CentOS Stream 8を使ったDrupal 9サイト環境構築」  
+「Drupal 9 Web 開発ことはじめ / Drupal Meetup 豊田支部(インプレスR&D)」  
+第4章 CentOS Stream 8を使ったDrupal 9サイト環境構築  
 
 「TLS証明書の設定および更新」の節にある2つ目のコマンド群  
 (正) $ sudo cp centos8-drupal9/umapon.jp.conf /etc/nginx/conf.d/umapon.jp.conf  
