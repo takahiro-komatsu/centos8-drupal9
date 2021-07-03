@@ -29,5 +29,5 @@ $ sudo restorecon -R /etc/nginx/conf.d
 第4章 CentOS Stream 8を使ったDrupal 9サイト環境構築  
 
 「TLS証明書の設定および更新」の節にある2つ目のコマンド群  
-(正) `$ sudo cp centos8-drupal9/umapon.jp.conf /etc/nginx/conf.d/umapon.jp.conf`
+(正) `$ sudo cp centos8-drupal9/umapon.jp.conf /etc/nginx/conf.d/umapon.jp.conf`  
 (誤) `$ sudo cp centos8-drupal9/example.com.conf /etc/nginx/conf.d/umapon.jp.conf`
